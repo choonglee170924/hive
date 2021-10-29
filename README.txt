@@ -1,4 +1,4 @@
-#This is where you CUSTOM your authentication for HIVE!
+# This is where you CUSTOM your authentication for HIVE!
 hive/src/java/org/apache/hive/exntu/ExntuAuthenticator.java
 https://github.com/choonglee170924/hive/blob/main/src/java/org/apache/hive/exntu/ExntuAuthenticator.java
 
